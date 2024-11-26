@@ -1,6 +1,6 @@
 # Farcaster Live Followers
 
-This project is a Farcaster Frame built using [frames.js](https://framesjs.org/), the [Airstack](https://airstack.xyz/) validator and node package.
+This project is a Farcaster Frame built using [frames.js](https://framesjs.org/), the [Airstack](https://airstack.xyz/) validator and node package. 
 
 Farcaster Live Followers is a Farcaster Frame designed to get the live count of Farcaster Live Followers. It uses the Warpcast and Airstack API to fetch and display the live followers count.
 
